@@ -1,2 +1,2 @@
 # House_Price_Prediction
-Data Science - R Basics - Final Project
+HarvardX - Data Science - R Basics
